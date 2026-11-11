@@ -1,3 +1,9 @@
 {
-  "cleanUrls": true
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/expedicoes", "destination": "/destinos#africa-ilhas-exoticas", "permanent": true },
+    { "source": "/lua-de-mel", "destination": "/servicos#lua-de-mel-celebracoes", "permanent": true },
+    { "source": "/consultoria-e-roteiros", "destination": "/servicos#roteiros-consultoria", "permanent": true },
+    { "source": "/corporativo", "destination": "/servicos#viagens-corporativas", "permanent": true }
+  ]
 }
