@@ -1,0 +1,9 @@
+# Raw camera files
+*.CR3
+*.cr3
+*.raw
+
+# System files
+.DS_Store
+Thumbs.db
+
